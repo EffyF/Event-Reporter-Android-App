@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ad3e4d7adc3277eb5bf0a63ee1a81f8b86bcd48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/e41d18a5c589d6f648589c9ad95c4804af130931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a070a73990b2631d297cfd27dec3ba3a68949ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/e21fb9a5a487d5d94fb38d549f4431a5354ed595/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d27fa8455b9bbe9dbf67dbf7715ff099fa620b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/f4c18561d7d098ae3e1b0e059e4eb417f3eda4b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb56f3b4ef1aa54c3b0d2abf88035366eac0eca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/17ff2317e05c5761b7d4c5e9f899c33bf6afe9c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9dfc554e09ddf8a09a13087f8166ba54db61aec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/053f32296db4491fb192446ddcaadd935517c38e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b310334c8a59b05832eee36b18ba465d7297c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/26a0310ce2776aeb2f9a880a08ba57ba6e47e707/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_292be0a7f22f3403296bb69b97c003298ca6c5af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3db4feaaf7e57d572fbdacaa93db89d3b2cae12">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_498847a72debe4c649b873c31f3f977d47ce513b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/c0efaf8f6d8ee8eb15d028e3ea3759ed491057a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a314bc106a566496bc8e7d357f0ce74d9ec177cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/96e061257452e1a7c93380e99fbdfd39958e216d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6ac7cfa4c0b680ee343c7325e3a14a31a52b2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/8440e21f58fd4d5bb76860ea41e1698836e84ef7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ff738e5578a30d17911e9004164541873d9ea39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/c5daf5c6d2cd56422d57b9173b7902bc4ccf6255/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcd677378cf6c49ddc215ee53d8ab732513f0dc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/985b822cdb916d65a91647e003a07d3307002109/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75888f6068b28aad6d1762ac32b57f7bfa454d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/4b5cdf528f37cbb3a8962900965d70b3782bfe79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dfd64cd117f0190d110fb337012b05c02fd4823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/58b0d36178460fea8d8075227da42d27419b1597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abcefdc3dcfb7a1b37eeff6fa28bc2f37d8efa74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/51e18eab85de8441837b78552d815e427d1a8d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7ee7ddeadf1f67203ee61066c493366f39e2012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/fb7c43dcfe3bbe8b4e3b31934f702ad9f28d25c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5426437ceb7947157951f72131c0ad3f459c183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d04dd538e5f261c9f0e5a8f58d805a6a2c0965e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/66ad1e0ee8ddfd3f712d5dec343a6361cfc48523/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97610c498feb937c285b47c91d78aaaf7b89d6e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/08e40f9e6ee03cf4995b431d79db624d4efd6de2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7de97c2259eacbab1623066d68b3d4c1a659d3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/2a06b7880cb52acda503d0a15ef854a9ab32a764/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7b50011826a6984e99d03e43e4fbff721b6028f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/6322c55c4d52b977bf37bbfdc7b1381c25fa7f4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bd0e1b5a757003391e78a00feb02b8f3fd0d7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_af6dea279adf6db8a4b472af44070d2f56c92a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/e4485f6fec6e29c434956a4bd04262ccbd568a8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0f16446513cf4283ef2ca7bd426037fa84d6a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/3327d498b6e73c338d5ce03f4435a9ab9d969148/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9bb1dd17b39058217c7a109d6d815517e151b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/2d2d213c5fb99d74a961ca3073ca819c3bb8e55c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_309c894f68006ce296cb7a2c32c13c1520c31440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/43b0edbdf03f00c0318c7c9595ea7f88c52ee865/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7430b00a4cfa0db59a860ffbc4e37be52a5e5a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/62a4e195b1554b980f4b92d320b779ee26bd9fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c16f2d3bf23b3c1e44910306104e41b6663465e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/7359ac40a1f30948927c9781462235d5a85e22c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54927a55417d605a8fc02ac0d288cca82e68df43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/b6ec34c379e27f2e13e38c88ca83a1c5ab1685b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ee5bfe0c0075795ca0ae929e97286606bc7e58e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/e54da819431dd7fb24723728c64526860f12074c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dc0fa247f6dc889d0ea58ccd3ce275e0572c402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/19bcb3877ea48c5a313ce78920360ae70444febc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d71273924deddf73bb70cc16da0533737c3b6762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/eaaced84802726a2e5bba4a65d205d89d29dd881/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42372cb3ab07507dbc141c7b7bb0d28426f9aa70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/0c7b8590d96d044ff492653674673b63d57ea0fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1809c7b39d24ed2e361c78fb94937839fe76de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/effyfeng/.android/build-cache/f7c9636e0fad422d0060e80ba28f59ae0c57bb62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/effyfeng/LaiOfferClass/Class1/LaiofferProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6417fcca6fcfe4d0574bf1630c4a88e3fd232583/classes.dex" />
+    </item>
+
+</items>

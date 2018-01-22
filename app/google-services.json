@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409945642762",
+    "firebase_url": "https://laiofferproject-1d474.firebaseio.com",
+    "project_id": "laiofferproject-1d474",
+    "storage_bucket": "laiofferproject-1d474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409945642762:android:b67a2bc0cd33de55",
+        "android_client_info": {
+          "package_name": "com.laioffer.laiofferproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409945642762-bffssda74ksmqlb93n8n4c2iv9t5nsil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laioffer.laiofferproject",
+            "certificate_hash": "b45311180ec9198d2b70b2b63c720796ff6c47a6"
+          }
+        },
+        {
+          "client_id": "409945642762-ett1sfl0t2kpvie4jfq242g36p2bek4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4Jw3FNn7w9dcM_dfeN4mdVwNLDjFxRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409945642762-ett1sfl0t2kpvie4jfq242g36p2bek4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
